@@ -1,3 +1,5 @@
+CS1302 Homework 2
+
 The class diagram with four classes Student, Graduate, Undergraduate and Exchange is given. The Write down the classes as described in the class diagram. The fields and methods for each class is given below. All the fields should be private and also write constructors, toString methods, getters and setters. 
  
 Student: 
